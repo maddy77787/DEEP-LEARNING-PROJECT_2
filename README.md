@@ -10,6 +10,10 @@
 
 **BATCH DURATION**: MAY 9th, 2026 TO JUNE 6th, 2026
 
+**MENTOR**: NEELA SANTOSH
+
+**DEEP LEARNING PROJECT**
+
 This project focuses on image classification using Deep Learning and TensorFlow. The primary objective is to build, train, and evaluate a Convolutional Neural Network (CNN) capable of accurately classifying images from the CIFAR-10 dataset, one of the most widely used benchmark datasets in computer vision. The project demonstrates the complete deep learning workflow, including data loading, preprocessing, model development, training, evaluation, and performance analysis.
 
 The project begins by importing essential libraries such as TensorFlow, NumPy, and Matplotlib. These libraries provide the tools required for numerical computation, visualization, and deep learning model creation. The CIFAR-10 dataset is then loaded directly from TensorFlow’s dataset repository. This dataset contains 60,000 color images of size 32×32 pixels, divided into 10 categories: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, and Truck. Out of the total images, 50,000 are used for training and 10,000 for testing.
